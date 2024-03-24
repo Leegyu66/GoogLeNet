@@ -1,4 +1,6 @@
 # GoogLeNet
+- Increased depth and width of CNN can increse the processing performance and final result\
+- Smaller filters(1x1) are great to control the number of channels
 
 # Architecture
 <img width="352" alt="ArchitectureGraph" src="https://github.com/Leegyu66/GoogLeNet/assets/96297784/a4267c44-e1b9-4a6a-b41f-dc5d3f7d4711"> \
